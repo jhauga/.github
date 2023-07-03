@@ -6,6 +6,3 @@ for the website I'm using to learn programming. I feel I'm at an intermediate le
 The site [practicing.xyz](https://practicing.xyz) started out as taking notes while learning to code (_now I call it programming_). May main goal then (_and now_) was to learn to make WordPress themes.
 It grew, then the website came. Over time I found it was useful to reference, so I started sharing it. Then learned more about the open source; became more interested in contributing; learned I needed to learn GitHub; 
 and now here I am - posting repos on GitHub. Hopefully posting repos others find useful as a learning/reference tool.
-
-But the heart of the site is this - it is a dummy site; not a real project. I plan to make open source stuff and contribute more (_if they'll have me_) in the future. While doing so I will probably keep the site updated with snippets and reference documents. 
-The gitHub repositories on [@isocialPractice](https://github.com/isocialPractice) are like the site; a learning resource.
